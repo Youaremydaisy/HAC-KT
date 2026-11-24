@@ -1,0 +1,230 @@
+{
+  "frozen_source_files": [
+    {
+      "path": "study/src/audit_assistments.py",
+      "sha256": "45a96eaf8b6ea1928fc54dfe6368f6d498a39d477099ff18887565cb4a0d1887",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/prepare_sequences.py",
+      "sha256": "9c1b5d28e0124d43d242b3d7cd00cf940aa584061fae0940a8a6b33810580946",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/prepare_mica_prefix_features.py",
+      "sha256": "f8a758faca6b0abd0004aaff68ff18eb09796e0bda4185259192f63a1be30c14",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/mica_exp_20260921/study_common.py",
+      "sha256": "5ea561dea97d2a8fafc429d919979101b1025f9e14ff2e3c2ca5afd7363786c3",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/mica_exp_20260921/neural_bench.py",
+      "sha256": "fee580af830d256a385dfcfe6db4136fe02e17d87e9c09c5b26686f9c251639f",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_transparent_20260923/core.py",
+      "sha256": "1b8fecfc219b0b039c2a0388e93b29f723b0c973a1a592868deea759d068d9e2",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_transparent_20260923/state_features.cpp",
+      "sha256": "6959e20a18f9797f975379ac56cfd0bbf27f5f76a32e5dc2ad4e0dfad6fae026",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_transparent_20260923/uncertainty_features.cpp",
+      "sha256": "e0128d7803d1cc1d623d6bd252c6cfedb4f496b389b27017c96e201f13550b97",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_transparent_20260923/gam_search.py",
+      "sha256": "9dc86cb94a184df0eaf8233b2962f8e81aa0b8bbe88e90d1774c7184170f1e5a",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_transparent_20260923/uncertainty_search.py",
+      "sha256": "800dc1e594991be34a7229d0b221bcac6fddbfcdbc3c815df46cc72087b734a7",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_transparent_20260923/affect_reliability.py",
+      "sha256": "ab6925c25b2f99cdfdb0c9e166bd622cb0795a78aa8dd2465a79177aeeaf9f17",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/mica_transparent_20260923/reliability_confirm.py",
+      "sha256": "8bd03ec0f126a17b4b4c39908c49b2fecf6dabf1ce3a519d0d10031fca468f72",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/mica_transparent_20260923/confirm.py",
+      "sha256": "7e585c0f207bdb1f26df6c8b30a6a7cb844b30d0a03a8c43c890d4a2a248c73c",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/mica_crossfit_20260924/common.py",
+      "sha256": "4cd1930366e3b18a8f7133f1fc42f3155384c45af5ce043bde7215053ddc4a56",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/mica_crossfit_20260924/crossfit_readout.py",
+      "sha256": "01329751bdb0b5deef7285855fa8b8b19c05b88a86717fe2aab7338b5c407bc6",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/mica_crossfit_20260924/full_crossfit_readout.py",
+      "sha256": "9907aaede00bfc9ae7a51df53f403eaa4695c3087b5acb633534c02ba3d34979",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/mica_crossfit_20260924/seed_validation.py",
+      "sha256": "e15d101f482b74fec9c73b23161b28ce345fd947a98172d378a4b81e5c9c90df",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/mica_generalization_20260930/common.py",
+      "sha256": "2aa245d372d7bff3fc608f17b38e0e4f4537d6e62f2c1ee736c63594bff5f4a0",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_generalization_20260930/prepare.py",
+      "sha256": "7ee32efe7f2f1364ca49f04718e855381bd9ae9d341c928e4b064327cb2f924d",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_generalization_20260930/features.py",
+      "sha256": "a86a8f126f064b3b30fd753fd2c15e40d1421b92e1bbd065ea011f2ce2909144",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_generalization_20260930/readout.py",
+      "sha256": "9ce90194c78a4109835fbc19a3f30a9bc8731b062c1cb1695b2cb49128dffa82",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_generalization_20260930/neural.py",
+      "sha256": "666104703ee8a1d39b8e2f4b2fad6389b0d16bd18ccbeafec7497a954f9d6804",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_generalization_20260930/frozen_train_model.py",
+      "sha256": "af035f7dfce683611e6a5a96f78629dc1419a7754ea972e82c7d549ffbe3e69a",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_generalization_20260930/frozen_train_eckt.py",
+      "sha256": "d6bc49b89018599f39c80e8d1da67722e0a47f6a9c525da874b26b9b6e3201a7",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_hist_completion_20261014/historical_ablation.py",
+      "sha256": "eab3cd6913858fd275ee1be6a3f231f3239fe8c02d598d397fa25e3afcb290fd",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/mica_revision_20260928/weighted_auc.cpp",
+      "sha256": "bc7d469f51047697f2f07fb1b82a4185bf9817f3c8d647e66049c028c3cbf529",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/hackt_bd2006_20261123/runtime.py",
+      "sha256": "b6e2e59d81e872a272beadf74f94c3857b4754d63c1f20797d5f6385dffd8963",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/hackt_bd2006_20261123/acquire.py",
+      "sha256": "713c9f647940237fe1c78468f1d550c8d22874cca43e438a7972ea23fa2eff2d",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/hackt_bd2006_20261123/bd_data.py",
+      "sha256": "21ee3c6361c9e634fc2c0a2a1579330f4cc585d3f3467486f7df93415850d964",
+      "registered_bd2006": true
+    },
+    {
+      "path": "study/src/hackt_bd2006_20261123/worker.py",
+      "sha256": "d6cd549fc8c707cb34bda9e34353b4e76756faa4b77ea2dd221892998bb368be",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/hackt_bd2006_20261123/analysis.py",
+      "sha256": "8d4d4ead0b0d26d69dbc3c7f1844bb647b45ebbc8f1ef4b4c05fefc1e46777c5",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/hackt_pairs_only_20261124/experiment.py",
+      "sha256": "f65cf2eacaf6d2c1458c364ca9edca174da0f64a1442ce847931062287f3e291",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/hackt_pairs_only_20261124/bd_driver.py",
+      "sha256": "70f2a1ba20bab6090e6a9b9123fffa06b7a5322985dba9521e0fc8a940dbceed",
+      "registered_bd2006": false
+    },
+    {
+      "path": "study/src/hackt_pairs_only_20261124/finish.py",
+      "sha256": "b90b98d25e6c83b3ce6246ca2474147e81dc43fb2751b3e6445662a3ddc069d8",
+      "registered_bd2006": false
+    }
+  ],
+  "portable_function_origins": [
+    {
+      "symbol": "SETTINGS",
+      "original": "src/mica_hist_completion_20261014/historical_ablation.py",
+      "source_sha256": "eab3cd6913858fd275ee1be6a3f231f3239fe8c02d598d397fa25e3afcb290fd",
+      "excerpt_sha256": "1e541f60da7fdcd5e76f5cdf8eed426f05d993d8708a19c1904d3c62f75d7a46"
+    },
+    {
+      "symbol": "folds",
+      "original": "src/mica_generalization_20260930/common.py",
+      "source_sha256": "2aa245d372d7bff3fc608f17b38e0e4f4537d6e62f2c1ee736c63594bff5f4a0",
+      "excerpt_sha256": "43374a95f2757db8201fd33b252cac5b3135126d368d13b02ef805a02d46ced8"
+    },
+    {
+      "symbol": "difficulty",
+      "original": "src/mica_generalization_20260930/prepare.py",
+      "source_sha256": "7ee32efe7f2f1364ca49f04718e855381bd9ae9d341c928e4b064327cb2f924d",
+      "excerpt_sha256": "b0badddb066fa27d735343b7d8e235ac2f7e76d765c3816cc97910540dfe4a21"
+    },
+    {
+      "symbol": "apply_difficulty",
+      "original": "src/mica_generalization_20260930/prepare.py",
+      "source_sha256": "7ee32efe7f2f1364ca49f04718e855381bd9ae9d341c928e4b064327cb2f924d",
+      "excerpt_sha256": "1a347a63a4b405818befd7dee73b0caa5c2c90e33eebeebbf109053a0ea21aab"
+    },
+    {
+      "symbol": "sigmoid",
+      "original": "reports/hackt_equation_explanations_20261103/replay_example/reproduce_case.py",
+      "source_sha256": "5847c26ecca26637f77d71f152ea35c98e7c93ad0f286e4d2ac53464bee82a49",
+      "excerpt_sha256": "fd60e7f62232d0ddeb4cb0df49ffbc55528e3c19369b32cea596ebba58fe3eb6"
+    },
+    {
+      "symbol": "feature_row",
+      "original": "reports/hackt_equation_explanations_20261103/replay_example/reproduce_case.py",
+      "source_sha256": "5847c26ecca26637f77d71f152ea35c98e7c93ad0f286e4d2ac53464bee82a49",
+      "excerpt_sha256": "b7091ed74a77f5da92364229e24b072d09e301ca37e3a96ba884dfa275163301"
+    },
+    {
+      "symbol": "export_tables",
+      "original": "src/mica_transparent_20260923/gam_search.py",
+      "source_sha256": "9dc86cb94a184df0eaf8233b2962f8e81aa0b8bbe88e90d1774c7184170f1e5a",
+      "excerpt_sha256": "5aa135089c0a8652990d95dc5ed0c8473e0e5abb609fed79e66d0cfafa821bf2"
+    },
+    {
+      "symbol": "table_terms",
+      "original": "src/mica_transparent_20260923/gam_search.py",
+      "source_sha256": "9dc86cb94a184df0eaf8233b2962f8e81aa0b8bbe88e90d1774c7184170f1e5a",
+      "excerpt_sha256": "b11d7b33205bd4b906684ab697b8f92d374f3486076f3a093ee60aa2ecb6318a"
+    },
+    {
+      "symbol": "predict_tables",
+      "original": "src/mica_transparent_20260923/gam_search.py",
+      "source_sha256": "9dc86cb94a184df0eaf8233b2962f8e81aa0b8bbe88e90d1774c7184170f1e5a",
+      "excerpt_sha256": "575ad34bab49232c5d0be8e961a97a2cdb6c2674ec79d9e6e5fbfb2fce834674"
+    }
+  ]
+}
